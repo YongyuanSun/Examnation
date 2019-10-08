@@ -1,11 +1,7 @@
-package xiecheng;
+package demo.xiecheng;
 
 
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class MinTime {
 

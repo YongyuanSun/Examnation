@@ -1,9 +1,5 @@
-package xiecheng;
-import java.io.*;
+package demo.xiecheng;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class NodeBigSmall {
 
